@@ -1,0 +1,54 @@
+.h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-align: center;
+    color: darkblue;
+    font-family: 'times';
+    padding: 25px;
+    background-color: aqua;
+}
+
+.body {
+    background-color: bisque;
+}
+
+.redbox1 
+{
+    height: 200px;
+    width:200px ;
+    border: 10px solid red;
+    text-align: center;
+    padding:1em;
+    cursor:pointer;
+    background-color: aqua;
+    font-size: 28px;
+}
+
+.redbox2 
+{
+    height: 200px;
+    width:200px ;
+    border:10px solid red;
+    text-align: center;
+    padding:1em;
+    cursor:pointer;
+    background-color: aqua;
+    font-size:28px;
+}
+
+.redbox3 {
+    height: 200px;
+    width:200px ;
+    border:10px solid red;
+    text-align: center;
+    padding:1em;
+    cursor: pointer;
+    background-color: aqua;
+    font-size:28px;
+    
+}
+
+div {
+    float: left;
+    margin: 76px;
+}
